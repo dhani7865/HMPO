@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMPO Test", "HMPO Test\HMPO Test.csproj", "{D824E5F6-15CB-4FA7-A7ED-916A69CA776E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D824E5F6-15CB-4FA7-A7ED-916A69CA776E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D824E5F6-15CB-4FA7-A7ED-916A69CA776E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D824E5F6-15CB-4FA7-A7ED-916A69CA776E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D824E5F6-15CB-4FA7-A7ED-916A69CA776E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1A56A70-A250-4DB2-9D48-86BF423206D5}
+	EndGlobalSection
+EndGlobal
